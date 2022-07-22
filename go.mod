@@ -1,3 +1,3 @@
-module tos
+module fmtos
 
 go 1.17
