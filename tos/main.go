@@ -1,4 +1,4 @@
-packagit ge tos
+package tos
 
 //func turn provides to turn hhuman age to dog age
 func Tr(i int) int {
